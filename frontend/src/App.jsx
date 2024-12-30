@@ -1,9 +1,9 @@
-import { Button } from "./components/ui/button";
+import SearchField from "./components/SearchField";
 
 function App() {
   return (
     <>
-      <Button>Click me</Button>
+      <SearchField />
     </>
   );
 }
