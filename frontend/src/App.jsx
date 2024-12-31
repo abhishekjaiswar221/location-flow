@@ -1,9 +1,9 @@
-import SearchField from "./components/SearchField";
+import Map from "./components/Map";
 
 function App() {
   return (
     <>
-      <SearchField />
+      <Map />
     </>
   );
 }
